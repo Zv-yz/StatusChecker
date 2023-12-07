@@ -25,6 +25,7 @@ A Discord Bot retrieves your user presence from the web server, which can be use
     WS_PORT=443
     GUILD_ID=XXXXXXXXXXXXXXXXXX
     USER_ID=XXXXXXXXXXXXXXXXXXX
+    TOKEN=XXXXXXXXXXXXXXXXXXXXX
     ```  
   - Install the dependencies:
     
