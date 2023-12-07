@@ -1,6 +1,6 @@
 <h1 align="center">Status Checker</h1>
 <p align="center">
-A Discord Bot retrieves your user presence from the web server, which can be useful on a website or any other application.
+A Discord Bot retrieves your user presence from the web server, which can be useful on a website or any other application. (Supports WebSocket)
 <br><br>
 <img src="https://i.imgur.com/57qdhpb.gif" style="width: 80%"></img>
 </p>
